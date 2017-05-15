@@ -1,1 +1,1 @@
-# Pokedex-iOS-App
+Android app to solve math problems
