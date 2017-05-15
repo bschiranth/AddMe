@@ -1,1 +1,1 @@
-Android app to solve math problems
+Android addition quiz app
