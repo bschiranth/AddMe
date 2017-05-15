@@ -7,6 +7,15 @@
     android:background="@color/colorPrimary"
     tools:context="com.bschiranth1692.addme.MainActivity">
 
-
+    <Button
+        android:id="@+id/launch"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Let's Go!"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/round"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
 
 </RelativeLayout>
